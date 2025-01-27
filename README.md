@@ -7,7 +7,7 @@
 - Database Management Tools: Snowflake, MS SQL Server, MySQL, Hadoop, PySpark, Azure Databricks, AWS
 
 ### Education
-Computer Science, Data Science @ University of Wisconsin-Madison
+- B.S Computer Science, B.S Data Science @ University of Wisconsin-Madison
 
 ### Work Experience
 Data Science Intern @ Oshkosh Corporation
