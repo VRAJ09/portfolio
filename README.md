@@ -30,6 +30,6 @@
 #### Skin Cancer Classification Using Deep Learning Models
 ![Skin Cancer Image](/assets/img/0805_eczema_lede.gif)
 <p align="center">
-  [GitHub](https://github.com/VRAJ09/Skin-Cancer-Classification-Using-Deep-Learning-Algorithms)
+  <a href="https://github.com/VRAJ09/Skin-Cancer-Classification-Using-Deep-Learning-Algorithms">GitHub</a>
 </p>
 Successfully applied deep learning techniques to improve the detection and classification of skin cancers, achieving notable results in diagnosing melanoma, basal cell carcinoma, and squamous cell carcinoma. Using a dataset of 10,015 dermoscopic images, models like ANN, CNN, and VGG-16 were trained and evaluated, with the CNN model achieving the highest performance—77% accuracy and an F1 score of 0.71. By demonstrating significant improvements in diagnostic accuracy, this project highlights the potential of deep learning models to provide reliable, non-invasive, and cost-effective tools for early skin cancer detection, paving the way for better clinical outcomes and timely treatments.
