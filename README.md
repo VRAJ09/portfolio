@@ -14,7 +14,7 @@ I'm a third year Undergraduate student at the University of Wisconsin-Madison st
 - B.S Computer Science, B.S Data Science @ University of Wisconsin-Madison (May 2026)
 
 ### 🚀 Work Experience
-**Data Science Intern @ Oshkosh Corporation (_September 2024 - Present_)**
+**Data Analytics and Artificial Intelligence Project Assistant @ Oshkosh Corporation (_September 2024 - Present_)**
 * Performed Exploratory Data Analysis (EDA) using SQL and Python on 6 Supplier tables containing 25,000+ claims and 1000+ unique vehicle parts, identifying failure correlations and key causal components.
 * Engineered 2 CatBoost regression models to forecast repair costs and repair times for failed vehicle components, achieving 80% accuracy on test sets through Mean Absolute Error, R<sup>2</sup>, and SHAP values analysis.
 * Optimized predictive models’ accuracies by 10% through Bayesian Hyperparameter Tuning and feature engineering, validated using Root Mean Squared Error analysis.
