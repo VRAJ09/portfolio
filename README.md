@@ -1,15 +1,19 @@
 ## Computer Science & Data Science Student
 
-### Technical Skills
+### 😁 About me
+
+I'm a third year Undergraduate student at the University of Wisconsin-Madison studying Computer Science and Data Science. My passion lies in using machine learning and artificial intelligence to solve problems. I enjoy coding and building projects, as well as exploring different aspects of data science. My goal is to leverage AI to solve real-world problems. I hope to pursue a career as a Data Scientist after graduation! Please feel free to reach me at **vpatel46@wisc.edu**.
+
+### 💻 Technical Skills
 - **Programming Languages**: Python, R, Java, SQL, C, C++, JavaScript, HTML, CSS
 - **AI/ML tools**: TensorFlow, PyTorch, Scikit-learn, Langchain Open AI
 - **Data Analysis**:  Matplotlib, Pandas, NumPy, SciPy, Ggplot2, MS Excel, Tableau, Power BI, Google Analytics
 - **Database Management Tools**: Snowflake, MS SQL Server, MySQL, Hadoop, PySpark, Azure Databricks, AWS
 
-### Education
+### 📖 Education
 - B.S Computer Science, B.S Data Science @ University of Wisconsin-Madison (May 2026)
 
-### Work Experience
+### 🚀 Work Experience
 **Data Science Intern @ Oshkosh Corporation (_September 2024 - Present_)**
 * Performed Exploratory Data Analysis (EDA) using SQL and Python on 6 Supplier tables containing 25,000+ claims and 1000+ unique vehicle parts, identifying failure correlations and key causal components.
 * Engineered 2 CatBoost regression models to forecast repair costs and repair times for failed vehicle components, achieving 80% accuracy on test sets through Mean Absolute Error, R<sup>2</sup>, and SHAP values analysis.
@@ -25,7 +29,7 @@
 * Identified correlations among 20+ socio-economic metrics via statistical modeling and EDA in R, delivering actionable recommendations to community leaders.
 * Constructed 2 Power BI dashboards, each featuring 6 distribution graphs, and developed 11 separate mapping error reports to enhance the Data Science team’s decision-making and improve data comprehension for stakeholders.
 
-### Projects
+### 👨‍💻 Projects
 
 #### Skin Cancer Classification Using Deep Learning Models
 ![Skin Cancer Image](/assets/img/0805_eczema_lede.gif)
