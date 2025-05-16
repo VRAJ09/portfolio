@@ -46,3 +46,10 @@ Successfully applied deep learning techniques to improve the detection and class
   <a href="https://public.tableau.com/views/Covid19DataAnalysisDashboard_17181451717850/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>
 </p>
 This project involved advanced data analysis and visualization to uncover key insights into COVID-19 health trends. I implemented and executed 32 optimized SQL queries, utilizing joins, sub-queries, and nested queries to extract, transform, and load over 70,000 data points, improving data manipulation efficiency by 25%. Additionally, I designed an interactive Tableau dashboard featuring geographical layouts and time-series graphs, enabling the identification of critical patterns behind regional spikes in infection rates. This work demonstrates proficiency in SQL and data visualization tools to drive actionable insights from complex datasets.
+
+#### NBA Player Explorer
+![Covid-19 Image](/assets/img/1583952355.1997.jpg)
+<p align="center">
+  <a href="https://github.com/VRAJ09/NBA-Player-Explorer">GitHub</a>
+</p>
+This project is an interactive Shiny dashboard for NBA player performance analysis. It integrates 2024–25 shot location data with 2023–24 regular season and playoff statistics. Users can explore detailed shot charts with filters for player, game, and shot type, compare player metrics, and analyze top performers. The app also features a playoff prediction tool using linear regression, a radar chart for player strengths, and a PCA-based visual map to highlight player similarity. Designed for fans, analysts, and developers, it offers an intuitive and data-rich experience.
